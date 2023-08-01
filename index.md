@@ -27,6 +27,13 @@ As an accomplished Tech Lead with 3 years of experience, I have proven expertise
   - Implemented responsive design principles to ensure a seamless user experience across devices.
   - Conducted rigorous testing and debugging to resolve technical issues and improve platform performance.
   - Assisted in integrating AWS services like AWS EC2 and AWS S3 for cloud storage.
+  
+- Flutter Developer
+  Thoughtmates, [Location] (July 2021 - May 2022)
+  - Developed scalable UI components using Flutter framework.
+  - Fixed bugs and optimized app performance for a seamless user experience.
+  - Implemented new functionalities such as chat, audio, and video call features.
+  - Integrated multiple APIs to enhance app capabilities and data exchange.
 
 - Flutter Developer Intern
   StartWithGenesis, Work From Home (May 2021 - July 2021)
@@ -41,12 +48,11 @@ As an accomplished Tech Lead with 3 years of experience, I have proven expertise
   - Implemented automatic attendance marking once partners were in proximity to users.
   - Utilized technologies and tools to efficiently manage and process location data.
 
-- Flutter Developer
-  Thoughtmates, [Location] (July 2021 - May 2022)
-  - Developed scalable UI components using Flutter framework.
-  - Fixed bugs and optimized app performance for a seamless user experience.
-  - Implemented new functionalities such as chat, audio, and video call features.
-  - Integrated multiple APIs to enhance app capabilities and data exchange.
+- Android Developer Intern
+  MirrAR, Gurugram (May 2019 - July 2019)
+  - Migrated the existing codebase from Camera 2 API to Camera X API to utilize AR and ML Kit Facial Contour Detection more efficiently.
+  - Improved jewelry augmentation speed, making it look more realistic and real-time.
+  - Solved challenges in the absence of documentation for Camera X API by self-learning and experimenting with the newly launched       technology.
 
 ## Skills:
 - Flutter
@@ -76,9 +82,3 @@ As an accomplished Tech Lead with 3 years of experience, I have proven expertise
   - Technologies: Node JS, Flutter, Google Cloud
   - Role: Developed APIs for code conversion and designed the frontend web application using Flutter.
   - Achievements: Neutron received positive feedback from users for its usefulness and became a valuable tool for programmers.
-
-## Volunteer Experience:
-- [Add any volunteer experiences, if applicable]
-
-## References:
-- Available upon request
